@@ -1,0 +1,12 @@
+.gallery-container {
+    margin-bottom: 20px; /* Add space between each gallery container */
+}
+
+.gallery {
+    border: 1px solid hsl(0, 0%, 60%);
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px; /* Add space between galleries */
+}

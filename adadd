@@ -1,0 +1,664 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AVN Recommendations</title>
+    <link rel="stylesheet" href="list.css" />
+  </head>
+  <body>
+    <div class="gallery-container">
+      <div class="gallery">
+        <a target="_blank" href="images/wew.jpg">
+          <img src="images/wew.jpg" />
+        </a>
+        <a href="title">
+          <div class="title">ETERNUM</div>
+        </a>
+        <div class="description">
+          <p>
+            You’re moving with your best friend to the city of Kredon, home to
+            some of the best schools and universities in the country, to
+            continue your studies. However, in Kredon, there’s only one thing
+            everyone talks about: ETERNUM—the virtual, hyper-reality MMORPG game
+            released a few years ago that revolutionized the world of
+            technology. With a neural implant that recreates the five senses, it
+            becomes impossible to distinguish between the game and the real
+            world. Thousands of servers form the network of Eternum: from
+            colorful, magic-filled fantasy worlds to foggy sci-fi cities, no
+            world is beyond reach. Nevertheless, looking beyond the surface,
+            there's a darker side to this pretty facade: black markets, torture,
+            rape, illegal content trafficking, unlawful assemblies, data theft…
+            Eternum follows the rules of no man. For some reason, governments
+            turn a blind eye to this; there’s no regulation and no control. Some
+            say it’s because the game is highly addictive, some say it’s because
+            the market moves millions of dollars daily, some say those in power
+            have been bribed, and others say… there’s something else going on.
+            And you? What’s your role in this story? Well... That’s up to you
+            now.
+          </p>
+          <a
+            href="https://drive.google.com/file/d/1ryRn3xxp4owSupy3dGirzgghYsaTcVVI/view?pli=1"
+            target="_blank"
+            >ETERNUM LINK</a
+          >
+        </div>
+      </div>
+
+      <div class="gallery">
+        <a target="_blank" href="images/once-in-a-lifetime-apk.jpg">
+          <img src="images/once-in-a-lifetime-apk.jpg" />
+        </a>
+        <a href="title">
+          <div class="title">Once in a lifetime</div>
+        </a>
+        <div class="description">
+          <p>
+            You live in Mistbury, an apparently normal town where you live an
+            apparently normal life with your family. However, you'll soon
+            discover that this place hides some deep dark secrets and things can
+            heat up very fast... From infiltrating into a prison to exploring
+            mysterious mansions and traveling to the other side of the world:
+            embark on an adventure of conspiracies, meeting bizarre characters,
+            living unique experiences, seducing gorgeous girls and, if there's
+            time, saving the world. If Astaroth seizes power, it will be the end
+            for all of us. Only you can stop him. Esse est deus..
+          </p>
+          <a
+            href="https://drive.google.com/file/d/1QYL-5v8rdYG5BSLID7d7pKVU2UQZyDtU/view"
+            target="_blank"
+            >ONCE IN A LIFETIME LINK</a
+          >
+        </div>
+      </div>
+
+      <div class="gallery">
+        <a target="_blank" href="images/b2H1sz.jpeg">
+          <img src="images/b2H1sz.jpeg" />
+        </a>
+        <a href="title">
+          <div class="title">Desert Stalker</div>
+        </a>
+        <div class="description">
+          <p>
+            It has been many years since the End of Days. Old civilizations
+            collapsed, and new ones are slowly arising in what is now an arid
+            wasteland somewhere in Egypt. Desert Stalker puts the player in the
+            shoes of the titular MC, a family man and citizen of Zeta, as he
+            interacts with various people that are trying to find their place in
+            this new world. Throughout the game you will meet girls and their
+            tribes, slaves and their Queens, and whether you are taking a
+            romantic or dominant approach, your actions may decide more than
+            just their fates.
+          </p>
+          <a href="https://gofile.io/d/JryEym" target="_blank"
+            >DESERT STALKER LINK</a
+          >
+        </div>
+      </div>
+    </div>
+    <!-- Closed container -->
+
+    <div class="gallery-container">
+      <!-- Added container -->
+      <div class="gallery">
+        <a target="_blank" href="images/Ripples-Walkthrough.jpg">
+          <img src="images/Ripples-Walkthrough.jpg" />
+        </a>
+        <a href="title1">
+          <div class="title">Rippples</div>
+        </a>
+        <div class="description">
+          <p>
+            Rippples is a sci-fi visual novel that centers around an 18-year-old
+            in his last year of high school. He reunites with his good friend
+            Darci and sets off to school like any other day, but as the day goes
+            on, he learns new information about his deceased father that has him
+            questioning the truth about his death. Reminder: This visual novel
+            is still in development, and there is still much more story to come,
+            and what I consider the best parts. Please let me know if you find
+            any errors/typos/miss-placed dialog, and I will correct them. The
+            best place to reach me is the Discord server..
+          </p>
+          <a
+            href="https://www.mediafire.com/file_premium/wtqxetujcbszeln/Ripples-0.6.0-public-android-full.zip/file"
+            target="_blank"
+            >RIPPLES LINK ANDROID VER
+          </a>
+          <a
+            href="https://www.mediafire.com/file_premium/ugaswyd7g5bpjy0/Ripples-0.6.0-pc-public.zip/file"
+            target="_blank"
+            >RIPPLES LINK PC VER
+          </a>
+        </div>
+      </div>
+
+      <div class="gallery">
+        <a target="_blank" href="images/maxresdefault (1).jpg">
+          <img src="images/maxresdefault (1).jpg" />
+        </a>
+        <a href="title">
+          <div class="title">My Bully Is My Lover</div>
+        </a>
+        <div class="description">
+          <p>
+            You will play as Kei (name can be changed), a young man who has
+            experienced bullying from the girl he confessed to during high
+            school. After fighting your way through heaven and hell just to
+            change your physical appearance, you swore to get your revenge one
+            day on her. However, upon reaching adulthood, you realized that
+            taking revenge is a fool's game and decided to simply move on with
+            your life. One day, your landlady put the other rooms in your house
+            for rent. Without your knowledge, that girl alongside her friends,
+            are the ones moving in. However, you will soon discover something
+            that will change your life forever. While diving down into each
+            character's heart-warming stories, you'll experience growth more
+            than you ever thought you would.
+          </p>
+          <a
+            href="https://www.mediafire.com/file_premium/xjmqnd01snb95bw/MyBullyIsMyLover-Ch.1_Ep.3_Part2-android.apk/file"
+            target="_blank"
+            >My Bully Is My Lover
+          </a>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+
+<div class="gallery">
+  <a target="_blank" href="images/maxresdefault (1).jpg">
+    <img src="images/FjuR5o.png" />
+  </a>
+  <a href="title">
+    <div class="title">Sicae</div>
+  </a>
+  <div class="description">
+    <p>
+      In this deceivingly heartwarming story, Kei was born and raised in a
+      family shrouded by mysteries and untold stories. After losing your loved
+      one in a tragic incident, you chose to distance yourself from others,
+      believing that your presence alone was the cause of their harm and pain.
+      As you try to get back on your feet, you move to a shared house, starting
+      to open up once again. However, shortly after moving on from your painful
+      past, you learn that your significant other is still alive. It seems that
+      her abduction wasn't a simple string of bad luck but something much more
+      insidious – directly connected to your family's secrets, kept hidden for
+      decades. With the shadowy forces setting their plan in motion, will you be
+      able to stop it and protect those who are dear to you? Or will you let
+      them die?
+    </p>
+    <a
+      href="https://drive.google.com/file/d/1AdH3jyLAWcDuoDMgNLugIpNs_OPD7qiy/view?usp=drive_link"
+      target="_blank"
+      >Sicae Link
+    </a>
+  </div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="images/maxresdefault (1).jpg">
+    <img src="images/fUvxcE.png" />
+  </a>
+  <a href="title">
+    <div class="title">Agent17</div>
+  </a>
+  <div class="description">
+    <p>
+      You're just an ordinary student, blending into the background at school.
+      Sometimes you get picked on by troublemakers, and no one really notices
+      you. But one day, on your way home, you find a broken phone, and your life
+      changes forever. This phone can fix all your problems. There's a
+      mysterious person called Agent17 who listens to whoever has the phone, and
+      she will do anything you tell her to. Suddenly, things get a lot better.
+      You stand up to the bullies and even get back at the teachers who treated
+      you badly. Soon, your boring school life becomes exciting as you meet new
+      people, each with their own secrets. With Agent17's help, you begin to
+      uncover even more mysteries. You start to realize that your life is full
+      of exciting surprises just waiting to be found.
+    </p>
+    <a
+      href="https://drive.google.com/file/d/1EOXjlaj6H12M637qTCKiALtG8ZXlMz8Y/view?usp=drive_link"
+      target="_blank"
+      >Agent17 Link</a
+    >
+  </div>
+</div>
+<div class="gallery">
+  <a target="_blank" href="images/maxresdefault (1).jpg">
+    <img src="images/_D6HTe.jpg" />
+  </a>
+  <a href="title">
+    <div class="title">Unraveling August Link</div>
+  </a>
+  <div class="description">
+    <p>
+      After ditching your military career, you return to your hometown – the
+      enigmatic August City, where things are not what they seem. Strange
+      occurrences are afoot, all seemingly linked to the mysterious Price
+      Industries, a mega-corporation led by the cutthroat Goro Price that
+      recently set up shop in your city. Whispers of nefarious experiments begin
+      to circulate, and despite the company's denial and the lack of concrete
+      evidence, you find yourself drawn into a web of chilling secrets and
+      otherworldly mysteries. Yet even as the tempest brews on the horizon with
+      Price Industries at its core, the authorities remain curiously
+      indifferent. The stakes are higher than ever, and the very lives of August
+      City's residents hang in the balance. Will you step up and forge alliances
+      to unmask the true nature of this malevolent force? The fate of the city
+      lies in your hands. Discover the hidden truths that lurk beneath the
+      shadows of August City in Unraveling August.
+    </p>
+    <a
+      href="https://drive.google.com/file/d/1qlynTs_ELTaW23wS8_pS3LT5ywz1wlH9/view?usp=drive_link"
+      target="_blank"
+      >Unraveling August Link</a
+    >
+  </div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="images/maxresdefault (1).jpg">
+    <img src="images/iu_Auj.jpg" />
+  </a>
+  <a href="title">
+    <div class="title">Companion of Darkness</div>
+  </a>
+  <div class="description">
+    <p>
+      3years after a tragic incident, you return to your hometown. Just before
+      you reach your destination, you watch as two supernatural forces pit their
+      strength against each other in a fight to the death. It seems that you
+      have been discovered and effortlessly overpowered, but instead of dying
+      you wake up in your bed as if nothing had happened. Was it all a dream?
+      Everyday life goes on whether you like it to or not. Not only do you feel
+      like a stranger in your hometown, more and more unexplainable events are
+      happening around you. When the ones you care for are threatened, you must
+      decide which boundaries you are willing to cross. And, if it is worth to
+      give up humanity.
+    </p>
+    <a
+      href="https://drive.google.com/file/d/15KxeAaY8Vp1piaPHRl0A341p05JDl9dH/view?usp=drive_link"
+      target="_blank"
+      >Companion of Darkness Link</a
+    >
+  </div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="images/maxresdefault (1).jpg">
+    <img src="images/FN75Bw.jpg" />
+  </a>
+  <a href="title">
+    <div class="title">Maids and Maidens</div>
+  </a>
+  <div class="description">
+    <p>
+      In Maids and Maidens, you play as a young, successful executive of a Tech
+      company. You've had plenty of one-night-stands and casual flings in the
+      past, but never really had a serious relationship. Now that you just
+      bought your dream house, and your dream promotion is just around the
+      corner, you can finally focus on your love life. There will be a number of
+      options for you to pursue, but you're not the kind of person to be
+      satisfied with just one, are you?
+    </p>
+    <a
+      href="https://drive.google.com/file/d/1TPcX2unR3pDA9yEVQCUvCRqQCaKTWf9t/view?usp=drive_link"
+      target="_blank"
+      >Maids and Maidens Link</a
+    >
+  </div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="images/maxresdefault (1).jpg">
+    <img src="images/NtYcb7.png" />
+  </a>
+  <a href="title">
+    <div class="title">Evermore</div>
+  </a>
+  <div class="description">
+    <p>
+      At the age of 4 years old, your parents were murdered in your childhood
+      home. The years that would follow only got worse, every family you lived
+      with died in a mysterious tragedy. Slowly but surely rumors spread and you
+      started to be known in the community as the cursed child. These tragedies
+      continued until you were adopted by a young single mother of 3 named
+      Natalie and since then, your life has been a life of happiness and joy,
+      you have finally found your home. These years of peace continued until one
+      day, tragedy strikes again while you’re out shopping . However this time,
+      you discover you have a mysterious power. What is the source of this power
+      and since when do you have it? More importantly, what will you do now that
+      you’ve discovered this ability? Embark on an adventure as a young man who
+      just discovered magical abilities as him and his family move to Walton.
+      Will this new town contain the secrets of his newfound abilities? Will it
+      help him become the most powerful being in existence or will he be crushed
+      beneath the heel of the secret societies and ancient evils. Enter the
+      world of Evermore to develop your powers and relationships as you make
+      your way through a world of half-truths. Who is truly your ally? Who will
+      try to use you? You get to choose the outcome of this adventure, so choose
+      wisely…
+    </p>
+    <a
+      href="https://www.mediafire.com/file/p1bj695wb7s0d9e/com.prometheus.evermore-release.apk/file"
+      target="_blank"
+      >Evermore Link</a
+    >
+  </div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="images/maxresdefault (1).jpg">
+    <img src="images/9RpnR9.png" />
+  </a>
+  <a href="title">
+    <div class="title">Corrupted Kingdom</div>
+  </a>
+  <div class="description">
+    <p>
+      You are the hero - or possibly villain - of this tale, originally on a
+      journey to discover why your family was driven out of your home town, but
+      quickly thrust into events beyond anything you could ever have imagined.
+      As tensions rise between the humans and the mythical creatures that lurk
+      just outside of sight, will you stand as a beacon of hope... or use your
+      newfound power to bring the world under your control?
+    </p>
+    <a
+      href="https://drive.google.com/file/d/1prQTO4m_kvohfQExbcAMa9Rvd__LjypC/view?usp=drive_link"
+      target="_blank"
+      >Corrupted Kingdom Link</a
+    >
+  </div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="images/maxresdefault (1).jpg">
+    <img src="images/pD28hK.jpg" />
+  </a>
+  <a href="title">
+    <div class="title">Fates Colide</div>
+  </a>
+  <div class="description">
+    <p>
+      All your life, you have been shuffled from one place to the next as your
+      parents followed their careers. You've drifted along aimlessly in their
+      wake, unable to make plans, friends, or put down roots because of the
+      constant changes. Now it's time to set aside your apathy and reset your
+      life. For the first time ever, you've decided to make a move on your own
+      terms. Ardoria, the city of life and education, is opening the doors of
+      its famous University to you. Meet new people, make friends or enemies,
+      and find the girl of your dreams. This might be the city you have been
+      yearning for...
+    </p>
+    <a
+      href="https://mega.nz/file/Frg0TZLa#pow3nPsd6Thny96gW9W7LymN2SC_iXjOxC5A4GMo_Sc"
+      target="_blank"
+      >Fates Colide Link</a
+    >
+  </div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="images/maxresdefault (1).jpg">
+    <img src="images/lZbgUq.png" />
+  </a>
+  <a href="title">
+    <div class="title">Stray incubus</div>
+  </a>
+  <div class="description">
+    <p>
+      In a conflict between the races, a group of brave warriors supported by
+      the gods purge a dark race of demons from existence. But due to the mercy
+      of one warrior, one demon child is spared as she decides not only to spare
+      him, but also to take him with her and raise him. A few years later, the
+      incubus grows into an adult and wishes to set off in an adventure.
+    </p>
+    <a
+      href="https://mega.nz/file/JXUQFT4K#iyRCbvZ3zVW-vXUevsqUtE5c1DqkozRQeJBZ69_hG7Q"
+      target="_blank"
+      >Stray incubus Link</a
+    >
+  </div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="images/maxresdefault (1).jpg">
+    <img src="images/svdwBv.png" />
+  </a>
+  <a href="title">
+    <div class="title">MurMur</div>
+  </a>
+  <div class="description">
+    <p>
+      It is a story about love and lust in our lives, about what their absence
+      leads to and what forms they can take. In this game, you'll be playing as
+      a 29-year-old guy who gets involved in unexpected mystical events. His
+      life gets turned on its head and he has to survive in the new world he's
+      found himself in. But it's not as grim as it seems at first glance. As you
+      play, you'll meet girls who need you just like you need them. Will you
+      make them yours, seduce them, or cherish and love them? It's up to you.
+      Each of them has their own background, character, and hidden fetishes...
+    </p>
+    <a
+      href="https://drive.google.com/file/d/1gfyHA-4t1Tf_9WKBHbhIGXX073Epku6e/view?usp=drive_link"
+      target="_blank"
+      >MurMur Link</a
+    >
+  </div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="images/maxresdefault (1).jpg">
+    <img src="images/TTTBWI.png" />
+  </a>
+  <a href="title">
+    <div class="title">That one teacher</div>
+  </a>
+  <div class="description">
+    <p>
+      After being made redundant at your old job as a Lab Technician, you've
+      found an opportunity you cannot refuse! You have successfully secured a
+      new job at a college! But there's something strange... this college isn't
+      government-run! What could this mean? It's time to find out, and make some
+      new (and old) acquaintances.
+    </p>
+    <a
+      href="https://drive.google.com/file/d/1D3Q0yA9zbB0NzlCfjDcAmQzOKAMaaMG0/view?usp=drive_link"
+      target="_blank"
+      >That one teacher Link</a
+    >
+  </div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="images/maxresdefault (1).jpg">
+    <img src="images/36Uhzr.png" />
+  </a>
+  <a href="title">
+    <div class="title">VIRTUES</div>
+  </a>
+  <div class="description">
+    <p>
+      What we are presenting to you is a harem simulator. You, as a young
+      capable college rich kid, versus 7 gorgeous girls with different
+      backgrounds and personalities. The story is not only about sex, but also
+      about romance and love fantasies. We wish you could immerse yourself in
+      the plots, discover more of the girls by yourself, and enjoy the feeling
+      of developing your harem. I am proud of my skill in character making, and
+      I have spent enormous time on creating the seven heroines of this game.
+      Each of them has her unique background, characteristics, habits, and the
+      philosophy of love. They are not just some pretty sluts you saw in other
+      places who know nothing but sex. I wish everyone could find his dream
+      lover or lovers among them.
+    </p>
+    <a
+      href="https://mega.nz/folder/SzB1lAJZ#H2nF3gD7Q1drQlaELPuu-Q"
+      target="_blank"
+      >VIRTUES Link
+    </a>
+  </div>
+</div>
+</div>
+</div>
+
+<div class="gallery-container">
+<div class="gallery">
+  <a target="_blank" href="images/maxresdefault (1).jpg">
+    <img src="images/9RpnR9.png" />
+  </a>
+  <a href="title">
+    <div class="title">Corrupted Kingdom</div>
+  </a>
+  <div class="description">
+    <p>
+      You are the hero - or possibly villain - of this tale, originally on
+      a journey to discover why your family was driven out of your home
+      town, but quickly thrust into events beyond anything you could ever
+      have imagined. As tensions rise between the humans and the mythical
+      creatures that lurk just outside of sight, will you stand as a
+      beacon of hope... or use your newfound power to bring the world
+      under your control?
+    </p>
+    <a
+      href="https://drive.google.com/file/d/1prQTO4m_kvohfQExbcAMa9Rvd__LjypC/view?usp=drive_link"
+      target="_blank"
+      >Corrupted Kingdom Link</a
+    >
+  </div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="images/maxresdefault (1).jpg">
+    <img src="images/pD28hK.jpg" />
+  </a>
+  <a href="title">
+    <div class="title">Fates Colide</div>
+  </a>
+  <div class="description">
+    <p>
+      All your life, you have been shuffled from one place to the next as
+      your parents followed their careers. You've drifted along aimlessly
+      in their wake, unable to make plans, friends, or put down roots
+      because of the constant changes. Now it's time to set aside your
+      apathy and reset your life. For the first time ever, you've decided
+      to make a move on your own terms. Ardoria, the city of life and
+      education, is opening the doors of its famous University to you.
+      Meet new people, make friends or enemies, and find the girl of your
+      dreams. This might be the city you have been yearning for...
+    </p>
+    <a
+      href="https://mega.nz/file/Frg0TZLa#pow3nPsd6Thny96gW9W7LymN2SC_iXjOxC5A4GMo_Sc"
+      target="_blank"
+      >Fates Colide Link</a
+    >
+  </div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="images/maxresdefault (1).jpg">
+    <img src="images/lZbgUq.png" />
+  </a>
+  <a href="title">
+    <div class="title">Stray incubus</div>
+  </a>
+  <div class="description">
+    <p>
+      In a conflict between the races, a group of brave warriors supported
+      by the gods purge a dark race of demons from existence. But due to
+      the mercy of one warrior, one demon child is spared as she decides
+      not only to spare him, but also to take him with her and raise him.
+      A few years later, the incubus grows into an adult and wishes to set
+      off in an adventure.
+    </p>
+    <a
+      href="https://mega.nz/file/JXUQFT4K#iyRCbvZ3zVW-vXUevsqUtE5c1DqkozRQeJBZ69_hG7Q"
+      target="_blank"
+      >Stray incubus Link</a
+    >
+  </div>
+</div>
+</div>
+
+<div class="gallery-container">
+<div class="gallery">
+  <a target="_blank" href="images/maxresdefault (1).jpg">
+    <img src="images/svdwBv.png" />
+  </a>
+  <a href="title">
+    <div class="title">MurMur</div>
+  </a>
+  <div class="description">
+    <p>
+      It is a story about love and lust in our lives, about what their
+      absence leads to and what forms they can take. In this game, you'll
+      be playing as a 29-year-old guy who gets involved in unexpected
+      mystical events. His life gets turned on its head and he has to
+      survive in the new world he's found himself in. But it's not as grim
+      as it seems at first glance. As you play, you'll meet girls who need
+      you just like you need them. Will you make them yours, seduce them,
+      or cherish and love them? It's up to you. Each of them has their own
+      background, character, and hidden fetishes...
+    </p>
+    <a
+      href="https://mega.nz/file/LQIDHCwQ#OzKy7jT2b244ltR8FARfVqrsWMv1GZsj7P85RpO0970"
+      target="_blank"
+      >MurMur Link</a
+    >
+  </div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="images/maxresdefault (1).jpg">
+    <img src="images/TTTBWI.png" />
+  </a>
+  <a href="title">
+    <div class="title">That one teacher</div>
+  </a>
+  <div class="description">
+    <p>
+      After being made redundant at your old job as a Lab Technician,
+      you've found an opportunity you cannot refuse! You have successfully
+      secured a new job at a college! But there's something strange...
+      this college isn't government-run! What could this mean? It's time
+      to find out, and make some new (and old) acquaintances.
+    </p>
+    <a
+      href="https://drive.google.com/file/d/1D3Q0yA9zbB0NzlCfjDcAmQzOKAMaaMG0/view?usp=drive_link"
+      target="_blank"
+      >That one teacher Link</a
+    >
+  </div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="images/maxresdefault (1).jpg">
+    <img src="images/36Uhzr.png" />
+  </a>
+  <a href="title">
+    <div class="title">VIRTUES</div>
+  </a>
+  <div class="description">
+    <p>
+      What we are presenting to you is a harem simulator. You, as a young
+      capable college rich kid, versus 7 gorgeous girls with different
+      backgrounds and personalities. The story is not only about sex, but
+      also about romance and love fantasies. We wish you could immerse
+      yourself in the plots, discover more of the girls by yourself, and
+      enjoy the feeling of developing your harem. I am proud of my skill
+      in character making, and I have spent enormous time on creating the
+      seven heroines of this game. Each of them has her unique background,
+      characteristics, habits, and the philosophy of love. They are not
+      just some pretty sluts you saw in other places who know nothing but
+      sex. I wish everyone could find his dream lover or lovers among
+      them.
+    </p>
+    <a
+      href="https://mega.nz/folder/SzB1lAJZ#H2nF3gD7Q1drQlaELPuu-Q"
+      target="_blank"
+      >VIRTUES Link
+    </a>
+  </div>
+</div>
+</div>
+</body>
+</html>
+
